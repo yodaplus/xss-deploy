@@ -9,8 +9,8 @@
 	url = https://github.com/makerdao/ds-pause
 [submodule "lib/dss"]
 	path = lib/dss
-	url = https://github.com/makerdao/dss
-	branch = v1.2
+	url = https://github.com/yodaplus/xss
+	commit = 1723deee31d9082a0746e836b0098d71174eb488
 [submodule "lib/esm"]
 	path = lib/esm
 	url = https://github.com/makerdao/esm
